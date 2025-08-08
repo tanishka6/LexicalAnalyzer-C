@@ -5,4 +5,5 @@
 *DOMAIN*: C PROGRAMMING;
 *DURATION*: 4 WEEKS;
 *MENTOR*: NEELA SANTHOSH KUMAR
-A basic lexical analyzer written in C to tokenize and classify input
+
+
